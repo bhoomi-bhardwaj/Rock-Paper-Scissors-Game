@@ -1,38 +1,22 @@
-# Tic Tac Toe Game
+# Rock Paper Scissors Game ✊✋✌️
 
 ## 📌 Overview
-This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript.  
-It allows two players to play the classic game in the browser.
+Simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## 🎮 Features
-- Two player gameplay (X and O)
-- Win detection logic
-- Draw detection
-- Interactive UI using JavaScript
-- Simple and clean design
+- Player vs Computer
+- Random computer choice
+- Win/Lose/Draw logic
+- Interactive UI
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-
-## 📂 Project Structure
-Tic-Tac-Toe-Game/
-│── index.html
-│── style.css
-│── script.js
+- HTML
+- CSS
+- JavaScript
 
 ## 🚀 How to Run
-1. Clone or download the repository
-2. Open index.html in any browser
-3. Start playing the game
-
-## 🎯 What I Learned
-- DOM manipulation
-- Event handling in JavaScript
-- Game logic implementation
-- Basic frontend structuring
+Open index.html in browser
 
 ## 👨‍💻 Author
-Bhoomi Bhardwaj  
+Bhoomi Bhardwaj
 GitHub: https://github.com/bhoomi-bhardwaj
